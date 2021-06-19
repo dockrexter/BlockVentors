@@ -1,0 +1,83 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 02/06/2018 13:27
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-banknote:before { content: "\f100"; }
+.flaticon-dish:before { content: "\f101"; }
+.flaticon-magnifier:before { content: "\f102"; }
+.flaticon-placeholder:before { content: "\f103"; }
+.flaticon-close-envelope:before { content: "\f104"; }
+.flaticon-agenda:before { content: "\f105"; }
+.flaticon-discount-sticker-with-percentage:before { content: "\f106"; }
+.flaticon-cutlery:before { content: "\f107"; }
+.flaticon-edit:before { content: "\f108"; }
+.flaticon-cheers:before { content: "\f109"; }
+.flaticon-hot-coffee-rounded-cup-on-a-plate-from-side-view:before { content: "\f10a"; }
+.flaticon-cup:before { content: "\f10b"; }
+.flaticon-trophy:before { content: "\f10c"; }
+.flaticon-user:before { content: "\f10d"; }
+.flaticon-chef-hat-outline-symbol:before { content: "\f10e"; }
+.flaticon-right-arrow:before { content: "\f10f"; }
+.flaticon-left-arrow:before { content: "\f110"; }
+.flaticon-food:before { content: "\f111"; }
+.flaticon-calendar:before { content: "\f112"; }
+.flaticon-road:before { content: "\f113"; }
+.flaticon-shopping-cart:before { content: "\f114"; }
+.flaticon-new-email-outline:before{content: "\f10c";}
+    
+    $font-Flaticon-banknote: "\f100";
+    $font-Flaticon-dish: "\f101";
+    $font-Flaticon-magnifier: "\f102";
+    $font-Flaticon-placeholder: "\f103";
+    $font-Flaticon-close-envelope: "\f104";
+    $font-Flaticon-agenda: "\f105";
+    $font-Flaticon-discount-sticker-with-percentage: "\f106";
+    $font-Flaticon-cutlery: "\f107";
+    $font-Flaticon-edit: "\f108";
+    $font-Flaticon-cheers: "\f109";
+    $font-Flaticon-hot-coffee-rounded-cup-on-a-plate-from-side-view: "\f10a";
+    $font-Flaticon-cup: "\f10b";
+    $font-Flaticon-trophy: "\f10c";
+    $font-Flaticon-user: "\f10d";
+    $font-Flaticon-chef-hat-outline-symbol: "\f10e";
+    $font-Flaticon-right-arrow: "\f10f";
+    $font-Flaticon-left-arrow: "\f110";
+    $font-Flaticon-food: "\f111";
+    $font-Flaticon-calendar: "\f112";
+    $font-Flaticon-road: "\f113";
+    $font-Flaticon-shopping-cart: "\f114";
+      $flaticon-new-email-outline:"\f10c";

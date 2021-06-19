@@ -1,0 +1,116 @@
+@charset "UTF-8";
+body, #error-page {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 14px;
+  color: #555;
+  line-height: 24px;
+  background: #fff;
+}
+#main {
+  background: #fff;
+}
+.side-breadcrumb.use_bg_image {
+  background: '';
+  background-repeat: '';
+  background-position: '';
+  background-size: cover;
+  background-attachment: inherit;
+}
+.side-breadcrumb .page-title h1 {
+  font-family: Open Sans;
+  color: #fff;
+  font-size: 32px;
+}
+h1 {
+  font-family: Comfortaa;
+  color: #333;
+  font-size: 56px;
+}
+h2 {
+  font-family: Comfortaa;
+  color: #333;
+  font-size: 48px;
+}
+h3 {
+  font-family: Comfortaa;
+  color: #333;
+  font-size: 24px;
+}
+h4 {
+  font-family: Comfortaa;
+  color: #333;
+  font-size: 18px;
+}
+h5 {
+  font-family: Comfortaa;
+  color: #333;
+  font-size: 16px;
+}
+h6 {
+  font-family: Comfortaa;
+  color: #333;
+  font-size: 14px;
+}
+@keyframes stretch {
+  0% {
+    transform: rotate(180deg);
+  }
+  100% {
+    background-color: #2eaae1;
+    transform: scale(0.5);
+    border-radius: 100%;
+  }
+}
+.cart-block::-webkit-scrollbar-thumb {
+  background-color: #2eaae1 !important;
+}
+/* Color themes */
+.default .button_acommo .btn_default, .default .button_acommo .btn_default:hover {
+  border-color: #8262b5;
+}
+.awesome .button_acommo .btn_default, .awesome .button_acommo .btn_default:hover {
+  border-color: #ff1a56;
+}
+.banana .button_acommo .btn_default, .banana .button_acommo .btn_default:hover {
+  border-color: #f1c40f;
+}
+.cherry .button_acommo .btn_default, .cherry .button_acommo .btn_default:hover {
+  border-color: #c0392b;
+}
+.di-serria .button_acommo .btn_default, .di-serria .button_acommo .btn_default:hover {
+  border-color: #cea35f;
+}
+.leaf .button_acommo .btn_default, .leaf .button_acommo .btn_default:hover {
+  border-color: #27ae60;
+}
+.nightsky .button_acommo .btn_default, .nightsky .button_acommo .btn_default:hover {
+  border-color: #2980b9;
+}
+.orange .button_acommo .btn_default, .orange .button_acommo .btn_default:hover {
+  border-color: #f96015;
+}
+.pastel .button_acommo .btn_default, .pastel .button_acommo .btn_default:hover {
+  border-color: #ffb546;
+}
+.niagara .button_acommo .btn_default, .niagara .button_acommo .btn_default:hover {
+  border-color: #16a085;
+}
+.electric .button_acommo .btn_default, .electric .button_acommo .btn_default:hover {
+  border-color: #0091ea;
+}
+.light-taupe .button_acommo .btn_default, .light-taupe .button_acommo .btn_default:hover {
+  border-color: #ad8368;
+}
+.pastel-red .button_acommo .btn_default, .pastel-red .button_acommo .btn_default:hover {
+  border-color: #ff6d6d;
+}
+.light-green .button_acommo .btn_default, .light-green .button_acommo .btn_default:hover {
+  border-color: #2ecc71;
+}
+.rodeo-dust .button_acommo .btn_default, .rodeo-dust .button_acommo .btn_default:hover {
+  border-color: #c7b29b;
+}
+.sunglo .button_acommo .btn_default, .sunglo .button_acommo .btn_default:hover {
+  border-color: #d86d65;
+}

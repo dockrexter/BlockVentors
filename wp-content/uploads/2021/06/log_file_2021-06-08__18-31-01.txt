@@ -1,0 +1,639 @@
+
+---Downloaded files---
+The import files for: Base Content were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/cryptcio/inc/data/content.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/cryptcio/inc/data/widget.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+[ERROR] Failed to import "img-slider-9.png" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+[ERROR] Failed to import "img-slider-9.png" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+[ERROR] Failed to import "img-slider-9.png" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+[ERROR] Failed to import "img-slider-9.png" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+[ERROR] Failed to import "img-slider-9.png" (Media)
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+[ERROR] Failed to import "img-slider-9.png" (Media)
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Hardware Wallets
+[WARNING] Failed to import product_cat KeepKey
+[WARNING] Failed to import product_cat Ledger
+[WARNING] Failed to import product_cat Miner Hosting Services
+[WARNING] Failed to import product_cat Mining Hardware
+[WARNING] Failed to import product_cat Power Supplies
+[WARNING] Failed to import product_cat Routers
+[WARNING] Failed to import product_cat Trezor
+[WARNING] Failed to import product_cat BitVault
+[ERROR] Failed to import "h5_slider.jpg" (Media)
+[ERROR] Failed to import "h5_sliderimg.png" (Media)
+[ERROR] Failed to import "banner-7.jpg" (Media)
+[ERROR] Failed to import "img-slider-9.png" (Media)
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+[WARNING] Failed to import "AntMiner S7": Invalid post type product
+[WARNING] Failed to import "Antminer D3": Invalid post type product
+[WARNING] Failed to import "Apw Miner": Invalid post type product
+[WARNING] Failed to import "1600 Watt Power Supply": Invalid post type product
+[WARNING] Failed to import "Antminer S9 Control Board": Invalid post type product
+[WARNING] Failed to import "Antminer Fan": Invalid post type product
+[WARNING] Failed to import "EVGA SuperNOVA 1200": Invalid post type product
+[WARNING] Failed to import "PandaMiner B3 Plus": Invalid post type product
+[WARNING] Failed to import "HIS Rx 470 IceQ 4GB Gpu Card": Invalid post type product
+[WARNING] Failed to import "Obelisk DCR1 DECRED Miner": Invalid post type product
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "PandaMiner B5 Plus": Invalid post type product
+
+
+---pt-ocdi/before_widgets_import---
+Import Widget
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Recent Posts - Latest news - Imported
+Archives - Archives - Imported
+Tag Cloud - Tags - Imported
+
+Blog Sidebar Home 6 : 
+
+Recent Posts - Latest news - Imported
+Categories - Categories - Imported
+Archives - Archives - Imported
+Tag Cloud - Tags - Imported
+
+Footer 1 Widget 1 : 
+
+Navigation Menu - Company - Imported
+
+Footer 1 Widget 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer 1 Widget 3 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer 2 Widget 1 : 
+
+Navigation Menu - Company - Imported
+
+Footer 2 Widget 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer 2 Widget 3 : 
+
+mc4wp_form_widget - Newsletter Subscribe - Site does not support widget
+
+Footer 3 Widget 1 : 
+
+Text - No Title - Imported
+
+Footer 3 Widget 2 : 
+
+Text - No Title - Imported
+
+Footer 3 Widget 3 : 
+
+Text - No Title - Imported
+
+Footer 3 Widget 4 : 
+
+Text - No Title - Imported
+
+Footer 7 Widget 1 : 
+
+mc4wp_form_widget - Newsletter SUBSCRIBE - Site does not support widget
+
+Footer 7 Widget 2 : 
+
+Navigation Menu - No Title - Imported
+
+Footer Newsletter : 
+
+mc4wp_form_widget - No Title - Site does not support widget
+
+Footer Contact : 
+
+APR Contact Info - No Title - Imported
+
+Footer Menu : 
+
+Navigation Menu - No Title - Imported
+
+Footer Form : 
+
+Text - No Title - Imported
+
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_categories - By categories - Site does not support widget
+woocommerce_products - Recent Products - Site does not support widget
+yith-woocompare-widget - Compare - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+Delete Default Post and Page \n

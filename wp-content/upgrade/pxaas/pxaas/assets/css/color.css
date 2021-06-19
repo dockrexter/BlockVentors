@@ -1,0 +1,431 @@
+/* $theme_color: #3d8cc4;
+
+
+::-moz-selection { 
+    color: #fff;
+    background: $theme_color;
+}
+::selection {
+    color: #fff; 
+    background: $theme_color;
+}
+*/
+/* .navbar .navbar-nav .menu-item .act-link {
+    color: $theme_color;
+} */
+/* BLUE */
+.navbar .navbar-nav .menu-item .act-link,
+.navbar .navbar-nav .menu-item .sub-menu li a:before,
+.navbar .navbar-nav a:hover,
+.navbar-colored .navbar-nav a:hover,
+.navbar .navbar-nav a.active,
+.navbar-colored .navbar-nav a.active,
+.navbar .navbar-nav .nav-link:hover,
+.navbar-transparent.navbar-colored .navbar-nav .nav-link:hover,
+.navbar-transparent .navbar-nav .nav-link.active,
+.navbar-transparent.navbar-colored .navbar-nav .nav-link.active,
+.btn-1:hover,
+.btn-2,
+.btn-3:hover,
+.color-blue,
+.color-blue-hvr:hover,
+.membership-plans-wrap .price-desc .price-link:hover,
+.contact-form7 .wpcf7-submit:hover,
+.course-element .course-item:after,
+.content-top-section .breadcrumbs span.bread-item,
+.post-like i,
+.post-author a:hover,
+.post-like a:hover,
+.comment-num a:hover,
+.post-cat a:hover,
+.sing-tags a:hover,
+.pxaas-footer .widget_nav_menu ul li a:hover,
+.pxaas-footer .widget_categories ul li a:hover,
+.error-wrap .page-404 form button.search-submit:hover,
+.widget_search form .search-submit i,
+.widget_categories ul li a:hover,
+.widget_recent_entries ul li a:hover,
+.widget_recent_comments ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_meta ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_rss ul li a:hover,
+.widget_nav_menu ul li a:hover,
+.widget_calendar ul li a:hover,
+.widget_text ul li a:hover,
+.pxaas_instagram_feed ul li a:hover,
+.open-table-widget ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_categories ul li a:hover,
+.widget_categories ul li span,
+.widget_recent_entries ul li span,
+.widget_recent_comments ul li span,
+.widget_archive ul li span,
+.widget_meta ul li span,
+.widget_pages ul li span,
+.widget_rss ul li span,
+.widget_nav_menu ul li span,
+.widget_calendar ul li span,
+.widget_text ul li span,
+.pxaas_instagram_feed ul li span,
+.open-table-widget ul li span,
+.widget_archive ul li span,
+.widget_categories ul li span,
+.tagcloud a,
+.tags-socials a,
+.error-wrap .page-404 form button.search-submit:hover,
+.search-page .wp-search-form .search-submit:hover,
+.post-single blockquote p:before,
+.page-links a span,
+.inline-facts-wrap.counter-1:hover i,
+.our-galleries.work-area-1 .work-image .overlay-bg a,
+.our-galleries.work-area-2 .work-image .overlay-bg a.img-magnifying,
+.our-galleries.work-area-2 .work-image .overlay-bg .content p,
+.feature-box.feature-type-6 h3,
+.pagination .nav-links .page-numbers,
+.pagination-container .blog-page,
+.pagination-container .prevposts-link,
+.pagination-container .nextposts-link,
+.attr-nav .cart-link, #wp-calendar a, #wp-calendar #today,
+.sticky .entry-title a {
+  color: #5882fd; }
+
+.navbar .navbar-nav .current-menu-parent > a,
+.navbar .navbar-nav .current-menu-ancestor > a,
+.navbar .navbar-nav .current-menu-item > a {
+  color: #5882fd; }
+
+.navbar .navbar-nav .menu-item .sub-menu li a:hover {
+  color: #5882fd !important; }
+
+.navbar .nav-item.log-in .nav-link,
+.navbar .nav-item.log-out .nav-link,
+.orange-color-theme .navbar .nav-item.log-in .nav-link:hover,
+.orange-color-theme .navbar .nav-item.log-out .nav-link:hover,
+.btn-1,
+.btn-2:before,
+.btn-3,
+.bg-blue,
+.bg-blue-hvr:hover,
+.tabs-plan li.active,
+.contact-form7 .wpcf7-submit,
+.col-md-4 .vision-dots .dots.active i,
+.col-md-12 .vision-dots .dots.active,
+.course-element .course-item:hover span,
+.search-page .wp-search-form .search-submit,
+.read:hover .line,
+.error-wrap .page-404 form button.search-submit,
+.tagcloud a:hover,
+.tags-socials a:hover,
+.share-holder a.share-icon,
+.subscribe.btn-bg-blue .subscribe-button,
+.page-links span,
+.page-links a:hover span,
+.filtering.work-area-1 .filter-item ul li a.active,
+.filtering.work-area-2 .filter-item ul li a.active,
+.our-galleries.work-area-1 .work-image .overlay-bg a:hover,
+.our-galleries.work-area-2 .work-image .overlay-bg a.img-magnifying:hover,
+.members-5 .items-grid-item .bg-orange-hvr:hover,
+.feature-box.feature-type-1-1:hover i,
+.feature-box.feature-type-3-1:hover i,
+.feature-box.feature-type-6:hover i,
+.feature-box.feature-type-7 i:after,
+.feature-box.feature-type-7-1 i:after,
+.feature-box.feature-type-7-2 i:after,
+.feature-box.feature-type-7-2:hover i:after,
+.feature-box.feature-type-10:hover i,
+.pagination .nav-links .page-numbers:hover,
+.pagination .nav-links .page-numbers.current,
+.pagination-container .blog-page:hover,
+.pagination-container .prevposts-link:hover,
+.pagination-container .nextposts-link:hover,
+.pagination-container .blog-page.current-page,
+.comment-number h2:after,
+.widget-title:after,
+.comment-respond .comment-reply-title:after,
+.related-post-name h4:after,
+.orange-color-theme .pxaas-footer a.social:hover,
+.orange-color-theme .pxaas-footer .back-to-top i:hover,
+.list-dot,
+.cthlist-dot .cthlist-item-icon {
+  background-color: #5882fd; }
+
+.hero-slider .owl-dot.active span,
+.hero-slider .owl-dot span:hover {
+  background-color: #5882fd !important; }
+
+.btn-2:after,
+.btn-3,
+.contact-form7 .wpcf7-submit,
+.search-page .wp-search-form .search-submit,
+.error-wrap .page-404 form button.search-submit,
+.filtering.work-area-1 .filter-item ul li a,
+.pagination .nav-links .page-numbers,
+.pagination-container .blog-page,
+.pagination-container .prevposts-link,
+.pagination-container .nextposts-link {
+  border: 1px solid #5882fd; }
+
+/* GRAY ==============================================================================================================*/
+.color-gray {
+  color: #edf5ff; }
+
+.bg-gray,
+.main-btn.before-gray:before,
+.tagcloud a,
+.tags-socials a,
+.course-element .course-item:after,
+.post-single blockquote,
+.img-shape-1:after,
+.img-shape-1-2:after,
+.img-shape-1-2:before,
+.img-shape-1-3:after,
+.img-shape-1-3:before,
+.img-shape-top:before,
+.img-shape-bot:after,
+.img-shape-bot:before,
+.page-links a span,
+.filtering.work-area-2 .filter-item ul li a,
+.green-color-theme .pxaas-footer i.address,
+.green-color-theme .pxaas-footer a.social {
+  background-color: #edf5ff; }
+
+/* ORANGE ============================================================================================================*/
+.orange-color-theme .navbar .navbar-nav .menu-item .act-link,
+.orange-color-theme .navbar .navbar-nav .menu-item.current-menu-parent a,
+.orange-color-theme .navbar .navbar-nav .menu-item.current-menu-parent .sub-menu .current-menu-item,
+.orange-color-theme .navbar .navbar-nav .menu-item:hover a,
+.orange-color-theme .navbar .navbar-nav .menu-item .sub-menu li a:before,
+.orange-color-theme .navbar .navbar-nav a:hover,
+.orange-color-theme .navbar-colored .navbar-nav a:hover,
+.orange-color-theme .navbar .navbar-nav a.active,
+.orange-color-theme .navbar-colored .navbar-nav a.active,
+.orange-color-theme .navbar .navbar-nav .nav-link:hover,
+.orange-color-theme .navbar-transparent.navbar-colored .navbar-nav .nav-link:hover,
+.orange-color-theme .navbar-transparent .navbar-nav .nav-link.active,
+.orange-color-theme .navbar-transparent.navbar-colored .navbar-nav .nav-link.active,
+.color-orange,
+.color-orange-hvr:hover,
+.main-btn.btn-orange:hover,
+.tabs-plan-3 li,
+.membership-plans-wrap.membership-plans-3 .price-head .list-price,
+.membership-plans-wrap.membership-plans-3 .price-content i.color-blue,
+.membership-plans-wrap.membership-plans-3 input.btn-3:hover,
+.inline-facts-wrap:hover i,
+.members-2 a.color-blue,
+.members-3 a.color-blue,
+.feature-box.feature-type-8:hover i,
+.orange-color-theme .pxaas-footer .widget_nav_menu ul li a:hover,
+.orange-color-theme .pxaas-footer .widget_categories ul li a:hover,
+.orange-color-theme .pxaas-footer .btn-3:hover,
+.orange-color-theme .pxaas-footer i.address,
+.orange-color-theme .pxaas-footer a.social {
+  color: #ff7762; }
+
+.orange-color-theme .navbar .navbar-nav .menu-item .sub-menu li a:hover,
+.accor-3 .elementor-accordion .elementor-accordion-item .elementor-tab-title,
+.contact-form7 span.wpcf7-not-valid-tip {
+  color: #ff7762 !important; }
+
+.orange-color-theme .navbar .nav-item.log-in .nav-link,
+.orange-color-theme .navbar .nav-item.log-out .nav-link,
+.green-color-theme .navbar .nav-item.log-in .nav-link:hover,
+.green-color-theme .navbar .nav-item.log-out .nav-link:hover,
+.bg-orange,
+.bg-orange-hvr:hover,
+.tabs-plan-3 li.color-blue.active,
+.membership-plans-wrap.membership-plans-3 input.btn-3,
+.accor-3 .elementor-accordion .elementor-accordion-item .elementor-tab-title.elementor-active,
+.col-md-5 .vision-dots .dots.active h4.p-absolute,
+.col-md-5 .vision-dots .dots:after,
+.course-element-2 .course-item:hover span,
+.navbar .nav-item.log-in .nav-link:hover,
+.navbar .nav-item.log-out .nav-link:hover,
+.subscribe.btn-bg-orange .subscribe-button,
+.feature-box.feature-type-8:hover,
+.orange-color-theme .pxaas-footer .btn-3,
+.orange-color-theme .pxaas-footer .back-to-top i,
+.green-color-theme .pxaas-footer .back-to-top i:hover {
+  background-color: #ff7762; }
+
+.accor-3 .elementor-accordion .elementor-accordion-item .elementor-tab-title,
+.membership-plans-wrap.membership-plans-3 input.btn-3,
+.orange-color-theme .pxaas-footer .btn-3 {
+  border: 1px solid #ff7762; }
+
+/* GREEN =============================================================================================================*/
+.green-color-theme .navbar .navbar-nav .menu-item .act-link,
+.green-color-theme .navbar .navbar-nav .menu-item.current-menu-parent a,
+.green-color-theme .navbar .navbar-nav .menu-item.current-menu-parent .sub-menu .current-menu-item,
+.green-color-theme .navbar .navbar-nav .menu-item:hover a,
+.green-color-theme .navbar .navbar-nav .menu-item .sub-menu li a:before,
+.green-color-theme .navbar .navbar-nav a:hover,
+.green-color-theme .navbar-colored .navbar-nav a:hover,
+.green-color-theme .navbar .navbar-nav a.active,
+.green-color-theme .navbar-colored .navbar-nav a.active,
+.green-color-theme .navbar .navbar-nav .nav-link:hover,
+.green-color-theme .navbar-transparent.navbar-colored .navbar-nav .nav-link:hover,
+.green-color-theme .navbar-transparent .navbar-nav .nav-link.active,
+.green-color-theme .navbar-transparent.navbar-colored .navbar-nav .nav-link.active,
+.btn-2.btn-green,
+.color-green,
+.color-green-hvr:hover,
+.main-btn.btn-green:hover,
+.membership-plans-wrap.membership-plans-2 .price-head .list-price,
+.membership-plans-wrap.membership-plans-2-1 .price-head .list-price,
+.membership-plans-wrap.membership-plans-2 .price-content i.color-blue,
+.membership-plans-wrap.membership-plans-2-1 .price-content i.color-blue,
+.membership-plans-wrap.membership-plans-2 input.btn-3:hover,
+.membership-plans-wrap.membership-plans-2-1 input.btn-3:hover,
+.tabs-plan-2 li,
+.tabs-plan-2-1 li,
+.blog-posts .blog-box .pos-tags a:hover,
+.our-galleries .work-image .overlay-bg a,
+.members-5 .items-grid-item span.color-blue,
+.green-color-theme .pxaas-footer .widget_nav_menu ul li a:hover,
+.green-color-theme .pxaas-footer .widget_categories ul li a:hover,
+.green-color-theme .pxaas-footer .btn-3:hover,
+.green-color-theme .pxaas-footer i.address,
+.green-color-theme .pxaas-footer a.social {
+  color: #1eda65; }
+
+.green-color-theme .navbar .navbar-nav .menu-item .sub-menu li a:hover,
+.navbar.active-green .navbar-nav .nav-link:hover,
+.navbar-colored.active-green .navbar-nav .nav-link:hover,
+.navbar.active-green .navbar-nav .nav-link.active,
+.navbar-colored.active-green .navbar-nav .nav-link.active,
+.navbar.active-green .navbar-nav .nav-item.dropdown:hover .dropdown-toggle,
+.navbar.active-green .navbar-nav .dropdown-menu a:hover,
+.navbar.active-green .navbar-nav .dropdown-menu a:focus {
+  color: #1eda65 !important; }
+
+.green-color-theme .navbar .nav-item.log-in .nav-link,
+.green-color-theme .navbar .nav-item.log-out .nav-link,
+.btn-2.btn-green:before,
+.bg-green,
+.bg-green-hvr:hover,
+.membership-plans-wrap.membership-plans-2 input.btn-3,
+.membership-plans-wrap.membership-plans-2-1 input.btn-3,
+.tabs-plan-2 li.color-blue.active,
+.tabs-plan-2-1 li.color-blue.active,
+.subscribe.btn-bg-green .subscribe-button,
+.filtering .filter-item ul li a.active,
+.our-galleries .work-image .overlay-bg a:hover,
+.feature-box.feature-type-7-1 i:after,
+.feature-box.feature-type-not-icon-1-9:hover,
+.feature-box.feature-type-not-icon-1-9-1,
+.feature-box.feature-type-not-icon-1-9-1:hover,
+.green-color-theme .pxaas-footer .btn-3,
+.green-color-theme .pxaas-footer .back-to-top i,
+.green-color-theme .pxaas-footer a.social:hover {
+  background-color: #1eda65; }
+
+.btn-2.btn-green:after,
+.membership-plans-wrap.membership-plans-2 input.btn-3,
+.membership-plans-wrap.membership-plans-2-1 input.btn-3,
+.filtering .filter-item ul li a,
+.green-color-theme .pxaas-footer .btn-3 {
+  border: 1px solid #1eda65; }
+
+/***** colors *****/
+.color-ccc {
+  color: #ccc; }
+
+.color-ddd {
+  color: #ddd; }
+
+.color-e5e5e5 {
+  color: #e5e5e5; }
+
+.color-eee {
+  color: #eee; }
+
+.color-f5f5f5 {
+  color: #f5f5f5; }
+
+.color-fff {
+  color: #fff; }
+
+.color-fff-hvr:hover {
+  color: #fff; }
+
+.color-aaa {
+  color: #aaa; }
+
+.color-999 {
+  color: #999; }
+
+.color-888 {
+  color: #888; }
+
+.color-666 {
+  color: #666; }
+
+.color-333 {
+  color: #333; }
+
+.color-555 {
+  color: #555; }
+
+.color-gold {
+  color: #ffd700; }
+
+/***** background-color *****/
+.bg-333 {
+  background-color: #333; }
+
+.bg-333-hvr:hover {
+  background-color: #333; }
+
+.bg-aaa {
+  background-color: #aaa; }
+
+.bg-eee {
+  background-color: #eee; }
+
+.bg-fff {
+  background-color: #fff; }
+
+.bg-fff-hvr:hover {
+  background-color: #fff; }
+
+.bg-orange-lh {
+  background-color: #ffe9da; }
+
+.bg-green-lh {
+  background-color: #d9f1e2; }
+
+.overlay-bg-75 {
+  background-color: rgba(0, 0, 0, 0.75); }
+
+.overlay-bg-80 {
+  background-color: rgba(0, 0, 0, 0.8); }
+
+.main-btn.btn-orange {
+  background-color: #ff7762;
+  border-color: #ff7762; }
+
+.main-btn.btn-green {
+  background-color: #1eda65;
+  border-color: #1eda65; }
+
+.main-btn.before-orange-lh:before,
+.members-3 .items-grid-item,
+.orange-color-theme .pxaas-footer i.address,
+.orange-color-theme .pxaas-footer a.social {
+  background-color: #ffe9da; }
+
+.orange-color-theme .pxaas-footer a.social:hover,
+.green-color-theme .pxaas-footer a.social:hover {
+  color: #fff; }
+
+.main-btn.before-green-lh:before {
+  background-color: #d9f1e2; }
+
+/* Reponsive */
+@media only screen and (max-width: 991px) {
+  .navbar.navbar-colored .navbar-nav .menu-item .sub-menu .current-menu-item a,
+  .navbar.navbar-nav .menu-item .sub-menu .current-menu-item a,
+  .navbar.navbar-special .navbar-collapse.show .navbar-nav li.current-menu-item a,
+  .navbar.navbar-special-transparent .navbar-collapse .navbar-nav li.current-menu-item a {
+    color: #ff7762; } }

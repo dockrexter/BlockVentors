@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Home 8 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/wordpress
+Data file = not defined!
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+Import Widget
+
+---pt-ocdi/after_import---
+

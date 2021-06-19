@@ -1,0 +1,254 @@
+/*===================================
+	2.4 Breadcrumb
+===================================*/
+.fixed-header{
+	.side-breadcrumb {
+	  padding-top: 215px;
+	}
+}
+.remove_space_br {
+	.side-breadcrumb{
+		margin-bottom: 0;
+	}
+	.side-breadcrumb + .wrapper{
+		padding-top: 0;
+	}
+}
+.use_bg_image{
+    background-color: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: inherit;
+    background-position: center center;
+    background-image: url('../images/bg-breadcrumb.jpg');
+}
+.side-breadcrumb{
+	padding: side-values(38px 0 34px);
+	text-align: center;
+	margin-bottom: 100px;
+	&:before{
+		background: #000;
+		opacity: 0.7;
+	}
+	.page-title{
+		padding: 0;
+		h1{
+			font-size: 24px;
+			color: #fff;
+			letter-spacing: 0;
+			font-weight: bold;
+			margin: side-values(0 auto);
+		}
+	}
+	.breadcrumb{
+		padding: 0;
+	}
+	&.type-1{
+		&.text-center{
+			.page-title{
+				padding-bottom: 15px;
+				padding: 0;
+			}
+		}
+		&.text-left,
+		&.text-right{
+			.page-title{
+				display: inline-block;
+				width: 50%;
+				padding: 0;
+			}
+			.breadcrumb{
+				display: inline-block;
+				float: $right;
+				padding: 0;
+				width: 50%;
+				text-align: $right;
+			}
+		}
+		&.text-right{
+			.breadcrumb{
+				float: $left;
+			}
+		}
+		&.text-left{
+			.breadcrumb {
+				margin: 0 -16px;
+				li:first-child,
+				li:last-child{
+					padding: 0 16px;
+				}
+			}
+		}
+	}
+	&.type-2{
+		padding:side-values(45px 0 44px);
+		.page-title {
+			h1{
+			    font-size: 24px;
+			    font-weight: bold;
+			    color: #fff;		
+			    margin-bottom:13px;
+			    text-transform:none;
+			}
+		}
+		.breadcrumb {
+			padding: side-values(0);
+		    margin-bottom: 0;
+		    color: #fff;
+		    text-transform: capitalize;
+		    li {
+		    	padding:side-values(0 12px);
+		    	a{
+			    	color: #fff;
+			    	&:hover{
+			    	 	color:$primary_color;
+			    	}
+			    	&.home{
+			    	 	padding-top: 0;
+    					display: inline-block;
+			    	}
+			    }
+			    &:first-child{
+			    	padding-#{$left}:0;
+			    }
+			    &:last-child{
+			    	padding-#{$right}:0;
+			    }
+			    &:before{
+			    	#{$right}:-3px;
+			    }
+		    }
+		}
+	}
+	&.type-3{
+		&.has-overlay:before{
+			background: $primary_color;
+			opacity: 0.9;
+		}
+		.page-title{
+			padding-bottom: 10px;
+		}
+		.breadcrumb {
+		    li {
+		    	a:hover{
+		    		color: #000;
+		    	}
+		    }
+		    >li+li:before{
+		    	content: "-";
+		    }
+		}
+	}
+}
+.breadcrumb{
+	background: none;
+	font-size: 14px;
+	margin-bottom:0;
+	color: #fff;
+	border-radius: 0;
+	text-transform: uppercase;
+	li {
+		position: relative;
+		padding: side-values(0 16px);
+		&:first-child{
+			padding-#{$left}: 0;
+		}
+		&:last-child{
+			padding-#{$right}: 0;
+		}
+		a{
+			color:#fff;
+			letter-spacing: 0;
+			cursor: pointer;
+			&:hover{
+				color: $primary_color;
+			}
+		}
+	}
+	li{
+		&:before{
+			color: #fff;
+			padding: side-values(0);
+			position: absolute;
+			#{$right}: -5px;
+			content: "/";
+		}
+		&:last-child{
+			&:before{
+				content: none;
+			}
+		}
+	}
+	> li + li::before{
+		padding: 0;
+	}
+}
+.main-color{
+	color: $primary_color !important;
+}
+@media (max-width: 991px){
+	.side-breadcrumb{
+		&.type-1{
+			&.text-left,
+			&.text-right{
+				.page-title{
+					width: 100%;
+					margin-bottom: 10px;
+					text-align: center;
+				}
+				.breadcrumb{
+					width: 100%;
+					text-align: center;
+					margin: 0;
+				}
+			}
+		}
+	}
+}
+@media (min-width:992px){
+	.side-breadcrumb.type-1 .page-title h1{
+		text-align: $left;
+	}
+}
+//Slider
+.main-color{
+	color:$primary_color !important;
+	span{
+		font-weight:700 !important;
+		color: $highlight_color;
+	}
+}	
+.rev-btn.btn-highlight{
+    background:$highlight_color !important;
+    border:1px solid $highlight_color !important;
+    color:#fff !important;
+    letter-spacing: 0.5px !important;
+       &:hover,&:focus, &:active{
+        opacity: 0.7 !important;
+    } 
+}
+.tp-bullets.ares{
+	.tp-bullet{
+		width: 10px !important;
+		height: 10px !important;
+		opacity: 0.5 !important;
+		background:$highlight_color !important;
+		&.selected{
+			opacity: 1 !important;
+			background:$highlight_color !important;
+		}
+		.tp-bullet-title{
+			display: none !important;
+		}
+	}
+}
+@media (max-width:767px){
+	.side-breadcrumb{
+		margin-bottom: 70px;
+	}
+}
+@media (max-width:500px){
+	.side-breadcrumb{
+		margin-bottom: 50px;
+	}
+}

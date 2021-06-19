@@ -1,0 +1,198 @@
+/*===================================
+	3.9 Event
+===================================*/
+.event-date {
+	font-size: 13px;
+	color: $primary_color;
+	width: 70px;
+	float: $left;
+	text-align: center;
+	margin-#{$right}: 4px;
+	margin-top: 11px;
+	span{
+		display: block;
+		font-size: 30px;
+		font-weight: 700;
+	}
+}
+.event-content{
+	padding: 24px 0;
+	padding-#{$right}: 15px;
+	margin-bottom: 30px;
+	&:hover{
+		background-color: $primary_color;
+		.event-date {
+			color: #fff;
+		}
+		.event-info {
+			i{
+				color: #282828;
+			}
+		}
+	}
+	.post-name a {
+		color: #282828;
+		font-size: 20px;
+		line-height: 30px;
+		padding-bottom: 8px;
+		display: block;
+	}
+}
+.event-post-info {
+	padding-#{$left}: 22px;
+	overflow: hidden;
+	border-#{$left}: 1px solid #ebebeb;
+}
+.event-info {
+	p:last-child{
+		margin-bottom: 0;
+	}
+	i{
+		width: 16px;
+		font-size: 15px;
+		color: $primary_color;
+	}
+}
+
+.event-date-line{
+	font-size: 18px;
+	color: $primary_color;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.events-post-title h3{
+	margin-bottom: 30px;
+}
+.events-item .blog_post_desc {
+	padding-bottom: 40px;
+}
+.events-item .event-info{
+	margin-bottom: 30px;
+	.col-md-6{
+		display: table;
+	}
+}
+.event-time {
+	padding: 20px;
+	text-align: center;
+	border: 1px solid #ebebeb;
+	height: 90px;
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	overflow: hidden;
+	h5 {
+		margin-top: 0;
+		margin-bottom: 0;
+		position: absolute;
+		#{$left}: 50%;
+		top: -8px;
+		background-color: #fff;
+		z-index: 1;
+		padding: 0 15px;
+		@include transform(translateX(-50%));
+	}
+	p{
+		margin-bottom: 0;
+		color: $primary_color;
+		font-size: 18px;
+		font-weight: 600;
+	}
+}
+.map_event iframe {
+	width: 100%;
+}
+
+.select-events{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.select-option {
+	display: inline-block;
+	position: relative;
+	border: 1px solid #b3b3b3;
+	padding-#{$left}: 10px;
+	margin: 0 11px;
+	label{
+		font-size: 13px;
+		color: #afafaf;
+		font-weight: 400;
+		display: inline-block;
+		margin: 0;
+	}
+	select{
+		height: 35px;
+		padding: 6px 36px 6px 0;
+		text-align: $right;
+		color: $primary_color;
+		font-size: 13px;
+		border: none;
+		display: inline-block;
+		width: auto;
+	}
+}
+.viewmore-events{
+	.btn{
+		min-width: 224px;
+		font-weight: 700;
+	}
+}
+.event-form{
+	label {
+		padding: 0 15px;
+		span{
+			color: #282828;
+		}
+	}
+}
+.event_form{
+	margin-top: 50px;
+	.contact-form {
+		margin: 0 -15px;
+		input, 
+		input[type="email"], 
+		input[type="text"], 
+		textarea {
+			color: #282828;
+			border-bottom: 1px solid #282828;
+		}
+		.wpcf7-form-control-wrap {
+			padding: 0 15px;
+		}
+		p.submit .btn.btn-primary{
+			margin-#{$left}: 15px
+		}
+	}
+}
+
+@media (max-width: 991px){
+	.events-entries-wrap .grid-item {
+		width: 100%;
+	}
+}
+@media (max-width: 767px){
+	.select-option {
+		margin: 0;
+	}
+	.events-item .event-info{
+		.col-md-6:first-child{
+			margin-bottom: 30px;
+		}
+	}
+}
+@media (max-width: 640px){
+	.select-option {
+		margin-bottom: 20px;
+		width: 100%;
+		text-align: $left;
+		&:last-child{
+			margin-bottom: 0;
+		}
+		label{
+			padding-top: 6px;
+		}
+		select {
+			float: $right;
+		}
+	}
+}

@@ -1,0 +1,25 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">cth_testimonial</custom-type>
+        <custom-type translate="1">member</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_cat</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="inshot_options">
+            <key name="header_info"/>
+            <key name="blog_head_title"/>
+            <key name="blog_head_intro"/>
+            <key name="blog_header_image"/>
+            <key name="folio_head_title"/>
+            <key name="folio_head_intro"/>
+            <key name="folio_header_image"/>
+            <key name="folio_column_intro"/> 
+            <key name="footer_copyright"/>
+            <key name="error404_bg"/>
+            <key name="error404_msg"/>
+        </key>
+    </admin-texts>
+</wpml-config>

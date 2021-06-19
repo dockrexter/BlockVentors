@@ -1,0 +1,105 @@
+
+---Downloaded files---
+The import files for: Base Content were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/cryptcio/inc/data/content.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/cryptcio/inc/data/widget.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+Import Widget
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Widget already exists
+Categories - Categories - Widget already exists
+Recent Posts - Latest news - Widget already exists
+Archives - Archives - Widget already exists
+Tag Cloud - Tags - Widget already exists
+
+Blog Sidebar Home 6 : 
+
+Recent Posts - Latest news - Widget already exists
+Categories - Categories - Widget already exists
+Archives - Archives - Widget already exists
+Tag Cloud - Tags - Widget already exists
+
+Footer 1 Widget 1 : 
+
+Navigation Menu - Company - Widget already exists
+
+Footer 1 Widget 2 : 
+
+Navigation Menu - Our Services - Widget already exists
+
+Footer 1 Widget 3 : 
+
+Navigation Menu - Quick Links - Widget already exists
+
+Footer 2 Widget 1 : 
+
+Navigation Menu - Company - Widget already exists
+
+Footer 2 Widget 2 : 
+
+Navigation Menu - Quick Links - Widget already exists
+
+Footer 2 Widget 3 : 
+
+mc4wp_form_widget - Newsletter Subscribe - Site does not support widget
+
+Footer 3 Widget 1 : 
+
+Text - No Title - Widget already exists
+
+Footer 3 Widget 2 : 
+
+Text - No Title - Widget already exists
+
+Footer 3 Widget 3 : 
+
+Text - No Title - Widget already exists
+
+Footer 3 Widget 4 : 
+
+Text - No Title - Widget already exists
+
+Footer 7 Widget 1 : 
+
+mc4wp_form_widget - Newsletter SUBSCRIBE - Site does not support widget
+
+Footer 7 Widget 2 : 
+
+Navigation Menu - No Title - Widget already exists
+
+Footer Newsletter : 
+
+mc4wp_form_widget - No Title - Site does not support widget
+
+Footer Contact : 
+
+APR Contact Info - No Title - Widget already exists
+
+Footer Menu : 
+
+Navigation Menu - No Title - Widget already exists
+
+Footer Form : 
+
+Text - No Title - Widget already exists
+
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_categories - By categories - Site does not support widget
+woocommerce_products - Recent Products - Site does not support widget
+yith-woocompare-widget - Compare - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+Delete Default Post and Page \n
